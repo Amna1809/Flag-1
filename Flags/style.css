@@ -1,0 +1,38 @@
+body
+{
+     background-color: black;
+}
+.border
+{
+     /* color: solid white; */
+     position: absolute;
+     left: 450px;
+     top:180px;
+     border: 2px solid white;
+     height: 310px;
+     width: 450px;
+}
+.a
+{
+     height: 150px;
+     width:450px;
+     background-color: #FFF200;
+}
+.b
+{
+     height: 80px;
+     width:450px;
+     background-color: #0066B3;
+}
+.c
+{
+     height: 80px;
+     width:450px;
+     background-color: #ED1C24;
+}
+h3
+{
+     position: absolute;
+     left: 600px;
+     top: 250px;
+}
